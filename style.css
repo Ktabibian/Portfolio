@@ -1,0 +1,47 @@
+#headshot{
+    margin-left: 150px;
+    margin-right: auto;
+}
+#title{
+    background-color: transparent;
+    color: aqua;
+}
+#skills{
+    margin: auto;
+    width: 50%;
+    text-align: center;
+    color: aqua;
+    font-size: 120%;
+}
+#tech{
+    font-weight: bold;
+    font-size: 120%;
+}
+body{
+    background-image: url("./images/home-office-.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+#jobs{
+    color: aqua;
+}
+#edu{
+    color: aqua;
+}
+#usmc{
+    color: aqua;
+    font-size: 110%;
+}
+#ninos{
+    color: aqua;
+    font-size: 110%;
+}
+#school{
+    color: aqua;
+    font-size: 110%;
+}
+a{
+    font-size: 120%;
+    font-weight: bold;
+}
